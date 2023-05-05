@@ -1,0 +1,1109 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -139.4988841,60.75025075 ]
+    },
+    "properties": {
+    "OBJECTID":189,
+    "adminAreaId":"KLUR",
+    "adminAreaNameEng":"KLUANE NATIONAL PARK RESERVE OF CANADA",
+    "distributionType":"NPR",
+    "distributionTypeEng":"National Park Reserve of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"YT",
+    "adminRegionEng":"Yukon Region",
+    "jurisdiction":"YT",
+    "jurisdictionEng":"Yukon",
+    "NID":"e1f50567b25a4c9984cb",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/YT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22899224,57.79396959 ]
+    },
+    "properties": {
+    "OBJECTID":313,
+    "adminAreaId":"WAPU",
+    "adminAreaNameEng":"WAPUSK NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"WROC_MB",
+    "adminRegionEng":"Manitoba Region",
+    "jurisdiction":"MB",
+    "jurisdictionEng":"Manitoba",
+    "NID":"3f5e9b39ba3411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/MB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.10895387,81.46739965 ]
+    },
+    "properties": {
+    "OBJECTID":314,
+    "adminAreaId":"QUTT",
+    "adminAreaNameEng":"QUTTINIRPAAQ NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"NU",
+    "adminRegionEng":"Nunavut Region",
+    "jurisdiction":"NU",
+    "jurisdictionEng":"Nunavut",
+    "NID":"8ff52e70ba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.98637318,66.04348081 ]
+    },
+    "properties": {
+    "OBJECTID":322,
+    "adminAreaId":"UKKU",
+    "adminAreaNameEng":"UKKUSIKSALIK NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"NU",
+    "adminRegionEng":"Nunavut Region",
+    "jurisdiction":"NU",
+    "jurisdictionEng":"Nunavut",
+    "NID":"015367263989478da1c9",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5209909,62.85416134 ]
+    },
+    "properties": {
+    "OBJECTID":332,
+    "adminAreaId":"THAI",
+    "adminAreaNameEng":"THAIDENE NENE NATIONAL PARK RESERVE OF CANADA",
+    "distributionType":"NPR",
+    "distributionTypeEng":"National Park Reserve of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"NT",
+    "adminRegionEng":"Northwest Territories Region",
+    "jurisdiction":"NT",
+    "jurisdictionEng":"Northwest Territories",
+    "NID":"c7c26877a9ff426a9951",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9351326,51.53046327 ]
+    },
+    "properties": {
+    "OBJECTID":368,
+    "adminAreaId":"BANF",
+    "adminAreaNameEng":"BANFF NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"AB",
+    "adminRegionEng":"Alberta Region",
+    "jurisdiction":"AB",
+    "jurisdictionEng":"Alberta",
+    "NID":"72996237ba3411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.17700468,46.46380556 ]
+    },
+    "properties": {
+    "OBJECTID":479,
+    "adminAreaId":"PEIS",
+    "adminAreaNameEng":"PRINCE EDWARD ISLAND NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"AT",
+    "adminRegionEng":"Atlantic Region",
+    "jurisdiction":"PE",
+    "jurisdictionEng":"Prince Edward Island",
+    "NID":"7a8441cfba1f11d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/PE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.76826041,46.73397401 ]
+    },
+    "properties": {
+    "OBJECTID":485,
+    "adminAreaId":"MAUR",
+    "adminAreaNameEng":"LA MAURICIE NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"QC",
+    "adminRegionEng":"Quebec Region",
+    "jurisdiction":"QC",
+    "jurisdictionEng":"Quebec",
+    "NID":"56db9661ba2411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/QC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.5834619,51.46730745 ]
+    },
+    "properties": {
+    "OBJECTID":615,
+    "adminAreaId":"YOHO",
+    "adminAreaNameEng":"YOHO NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"BC",
+    "adminRegionEng":"British Columbia Region",
+    "jurisdiction":"BC",
+    "jurisdictionEng":"British Columbia",
+    "NID":"5c141631ba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/BC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.1564447,48.79260893 ]
+    },
+    "properties": {
+    "OBJECTID":626,
+    "adminAreaId":"PRIM",
+    "adminAreaNameEng":"PACIFIC RIM NATIONAL PARK RESERVE OF CANADA",
+    "distributionType":"NPR",
+    "distributionTypeEng":"National Park Reserve of Canada",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"WROC_BC",
+    "adminRegionEng":"British Columbia Region",
+    "jurisdiction":"BC",
+    "jurisdictionEng":"British Columbia",
+    "NID":"5bf78d80ba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/BC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -139.8577326,68.38530695 ]
+    },
+    "properties": {
+    "OBJECTID":829,
+    "adminAreaId":"VUNT",
+    "adminAreaNameEng":"VUNTUT NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<100m",
+    "absoluteAccuracyEng":"Better than 100 metres",
+    "adminRegion":"YROC_YT",
+    "adminRegionEng":"Yukon Region",
+    "jurisdiction":"YT",
+    "jurisdictionEng":"Yukon",
+    "NID":"691713deba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/YT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.5004263,61.5012494 ]
+    },
+    "properties": {
+    "OBJECTID":843,
+    "adminAreaId":"NAHA",
+    "adminAreaNameEng":"NAHANNI NATIONAL PARK RESERVE OF CANADA",
+    "distributionType":"NPR",
+    "distributionTypeEng":"National Park Reserve of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"NT",
+    "adminRegionEng":"Northwest Territories Region",
+    "jurisdiction":"NT",
+    "jurisdictionEng":"Northwest Territories",
+    "NID":"7c45f7dcba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.87021279,44.87492384 ]
+    },
+    "properties": {
+    "OBJECTID":863,
+    "adminAreaId":"GBIS",
+    "adminAreaNameEng":"GEORGIAN BAY ISLANDS NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<100m",
+    "absoluteAccuracyEng":"Better than 100 metres",
+    "adminRegion":"ON",
+    "adminRegionEng":"Ontario Region",
+    "jurisdiction":"ON",
+    "jurisdictionEng":"Ontario",
+    "NID":"bd4a9ae2ba2c11d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/ON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -139.8340268,69.0945376 ]
+    },
+    "properties": {
+    "OBJECTID":899,
+    "adminAreaId":"IVVA",
+    "adminAreaNameEng":"IVVAVIK NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<100m",
+    "absoluteAccuracyEng":"Better than 100 metres",
+    "adminRegion":"YROC_YT",
+    "adminRegionEng":"Yukon Region",
+    "jurisdiction":"YT",
+    "jurisdictionEng":"Yukon",
+    "NID":"68fd715dba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/YT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0420098,51.09325016 ]
+    },
+    "properties": {
+    "OBJECTID":975,
+    "adminAreaId":"REVE",
+    "adminAreaNameEng":"MOUNT REVELSTOKE NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"BC",
+    "adminRegionEng":"British Columbia Region",
+    "jurisdiction":"BC",
+    "jurisdictionEng":"British Columbia",
+    "NID":"5bd70d2fba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/BC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.5297594,51.33590477 ]
+    },
+    "properties": {
+    "OBJECTID":984,
+    "adminAreaId":"GLAC",
+    "adminAreaNameEng":"GLACIER NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"BC",
+    "adminRegionEng":"British Columbia Region",
+    "jurisdiction":"BC",
+    "jurisdictionEng":"British Columbia",
+    "NID":"5b8da81dba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/BC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0831914,53.92336789 ]
+    },
+    "properties": {
+    "OBJECTID":1005,
+    "adminAreaId":"PALB",
+    "adminAreaNameEng":"PRINCE ALBERT NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"SK",
+    "adminRegionEng":"Saskatchewan Region",
+    "jurisdiction":"SK",
+    "jurisdictionEng":"Saskatwechan",
+    "NID":"5305bc53ba3411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/SK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.6507633,46.73885967 ]
+    },
+    "properties": {
+    "OBJECTID":1030,
+    "adminAreaId":"CBHI",
+    "adminAreaNameEng":"CAPE BRETON HIGHLANDS NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"EROC_AT",
+    "adminRegionEng":"Atlantic Region",
+    "jurisdiction":"NS",
+    "jurisdictionEng":"Nova Scotia",
+    "NID":"2bf0f213af4311d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1621343,48.78670297 ]
+    },
+    "properties": {
+    "OBJECTID":1110,
+    "adminAreaId":"GULF",
+    "adminAreaNameEng":"GULF ISLANDS NATIONAL PARK RESERVE OF CANADA",
+    "distributionType":"NPR",
+    "distributionTypeEng":"National Park Reserve of Canada",
+    "absoluteAccuracy":"<100m",
+    "absoluteAccuracyEng":"Better than 100 metres",
+    "adminRegion":"WROC_BC",
+    "adminRegionEng":"British Columbia Region",
+    "jurisdiction":"BC",
+    "jurisdictionEng":"British Columbia",
+    "NID":"a8532b93849c20c344c7",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/BC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.66502379,48.11287555 ]
+    },
+    "properties": {
+    "OBJECTID":1149,
+    "adminAreaId":"SAGU",
+    "adminAreaNameEng":"SAGUENAY-ST. LAWRENCE MARINE PARK",
+    "distributionType":"SSL",
+    "distributionTypeEng":"Saguenay-St. Lawrence Marine Park",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"EROC_QC",
+    "adminRegionEng":"Quebec Region",
+    "jurisdiction":"QC",
+    "jurisdictionEng":"Quebec",
+    "NID":"effb8713ba2311d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/QC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7487334,68.81901097 ]
+    },
+    "properties": {
+    "OBJECTID":1188,
+    "adminAreaId":"TUKT",
+    "adminAreaNameEng":"TUKTUT NOGAIT NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"NT",
+    "adminRegionEng":"Northwest Territories Region",
+    "jurisdiction":"NT",
+    "jurisdictionEng":"Northwest Territories",
+    "NID":"7c56e7cdba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.51878322,41.96347315 ]
+    },
+    "properties": {
+    "OBJECTID":1228,
+    "adminAreaId":"PELE",
+    "adminAreaNameEng":"POINT PELEE NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"ON",
+    "adminRegionEng":"Ontario Region",
+    "jurisdiction":"ON",
+    "jurisdictionEng":"Ontario",
+    "NID":"c712b993ba2c11d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/ON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.5910166,73.74848821 ]
+    },
+    "properties": {
+    "OBJECTID":1230,
+    "adminAreaId":"AULA",
+    "adminAreaNameEng":"AULAVIK NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"NT",
+    "adminRegionEng":"Northwest Territories Region",
+    "jurisdiction":"NT",
+    "jurisdictionEng":"Northwest Territories",
+    "NID":"7c32e50bba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8638243,53.60348978 ]
+    },
+    "properties": {
+    "OBJECTID":1350,
+    "adminAreaId":"ELKI",
+    "adminAreaNameEng":"ELK ISLAND NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"AB",
+    "adminRegionEng":"Alberta Region",
+    "jurisdiction":"AB",
+    "jurisdictionEng":"Alberta",
+    "NID":"72caf988ba3411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.17293379,43.81893385 ]
+    },
+    "properties": {
+    "OBJECTID":1471,
+    "adminAreaId":"33245",
+    "adminAreaNameEng":"ROUGE NATIONAL URBAN PARK",
+    "distributionType":"NRU",
+    "distributionTypeEng":"Rouge National Urban Park",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"ON",
+    "adminRegionEng":"Ontario Region",
+    "jurisdiction":"ON",
+    "jurisdictionEng":"Ontario",
+    "NID":"e8f7ca8effaf4a10ac7a",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/ON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.21356786,44.43702701 ]
+    },
+    "properties": {
+    "OBJECTID":1581,
+    "adminAreaId":"KEJI",
+    "adminAreaNameEng":"KEJIMKUJIK NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"EROC_AT",
+    "adminRegionEng":"Atlantic Region",
+    "jurisdiction":"NS",
+    "jurisdictionEng":"Nova Scotia",
+    "NID":"2c0675e4af4311d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -139.4997853,60.75046052 ]
+    },
+    "properties": {
+    "OBJECTID":1628,
+    "adminAreaId":"KLUA",
+    "adminAreaNameEng":"KLUANE NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"YROC_YT",
+    "adminRegionEng":"Yukon Region",
+    "jurisdiction":"YT",
+    "jurisdictionEng":"Yukon",
+    "NID":"6978bbe2ba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/YT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.0316737,45.6144363 ]
+    },
+    "properties": {
+    "OBJECTID":1636,
+    "adminAreaId":"FUND",
+    "adminAreaNameEng":"FUNDY NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"AT",
+    "adminRegionEng":"Atlantic Region",
+    "jurisdiction":"NB",
+    "jurisdictionEng":"New Brunswick",
+    "NID":"12b41102ba2011d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9592959,50.97742218 ]
+    },
+    "properties": {
+    "OBJECTID":1648,
+    "adminAreaId":"KOOT",
+    "adminAreaNameEng":"KOOTENAY NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<100m",
+    "absoluteAccuracyEng":"Better than 100 metres",
+    "adminRegion":"BC",
+    "adminRegionEng":"British Columbia Region",
+    "jurisdiction":"BC",
+    "jurisdictionEng":"British Columbia",
+    "NID":"5baeebbeba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/BC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.9711185,50.65876746 ]
+    },
+    "properties": {
+    "OBJECTID":2023,
+    "adminAreaId":"RIDM",
+    "adminAreaNameEng":"RIDING MOUNTAIN NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"WROC_MB",
+    "adminRegionEng":"Manitoba Region",
+    "jurisdiction":"MB",
+    "jurisdictionEng":"Manitoba",
+    "NID":"3f3f7a78ba3411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/MB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.27276831,48.81628799 ]
+    },
+    "properties": {
+    "OBJECTID":2024,
+    "adminAreaId":"FORI",
+    "adminAreaNameEng":"FORILLON NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"EROC_QC",
+    "adminRegionEng":"Quebec Region",
+    "jurisdiction":"QC",
+    "jurisdictionEng":"Quebec",
+    "NID":"4b227d20ba2411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/QC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9572761,52.87812149 ]
+    },
+    "properties": {
+    "OBJECTID":2051,
+    "adminAreaId":"JASP",
+    "adminAreaNameEng":"JASPER NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"AB",
+    "adminRegionEng":"Alberta Region",
+    "jurisdiction":"AB",
+    "jurisdictionEng":"Alberta",
+    "NID":"733b4789ba3411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.96093917,46.81110183 ]
+    },
+    "properties": {
+    "OBJECTID":2311,
+    "adminAreaId":"KOUC",
+    "adminAreaNameEng":"KOUCHIBOUGUAC NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"AT",
+    "adminRegionEng":"Atlantic Region",
+    "jurisdiction":"NB",
+    "jurisdictionEng":"New Brunswick",
+    "NID":"1b763163ba2011d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.05600177,67.48985995 ]
+    },
+    "properties": {
+    "OBJECTID":2383,
+    "adminAreaId":"AUYU",
+    "adminAreaNameEng":"AUYUITTUQ NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"NU",
+    "adminRegionEng":"Nunavut Region",
+    "jurisdiction":"NU",
+    "jurisdictionEng":"Nunavut",
+    "NID":"8fc7b5ceba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.78179814,73.07402785 ]
+    },
+    "properties": {
+    "OBJECTID":2414,
+    "adminAreaId":"SIRM",
+    "adminAreaNameEng":"SIRMILIK NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"NU",
+    "adminRegionEng":"Nunavut Region",
+    "jurisdiction":"NU",
+    "jurisdictionEng":"Nunavut",
+    "NID":"8fde721fba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.99328881,59.22513129 ]
+    },
+    "properties": {
+    "OBJECTID":2416,
+    "adminAreaId":"TORN",
+    "adminAreaNameEng":"TORNGAT MOUNTAINS NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"AT",
+    "adminRegionEng":"Atlantic Region",
+    "jurisdiction":"NL",
+    "jurisdictionEng":"Newfoundland and Labrador",
+    "NID":"26829b62817211db95e3",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.05079199,44.34319332 ]
+    },
+    "properties": {
+    "OBJECTID":2478,
+    "adminAreaId":"THIS",
+    "adminAreaNameEng":"THOUSAND ISLANDS NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"ON",
+    "adminRegionEng":"Ontario Region",
+    "jurisdiction":"ON",
+    "jurisdictionEng":"Ontario",
+    "NID":"dced0e05ba2c11d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/ON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.96568874,48.52588909 ]
+    },
+    "properties": {
+    "OBJECTID":2479,
+    "adminAreaId":"NOVA",
+    "adminAreaNameEng":"TERRA NOVA NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<100m",
+    "absoluteAccuracyEng":"Better than 100 metres",
+    "adminRegion":"AT",
+    "adminRegionEng":"Atlantic Region",
+    "jurisdiction":"NL",
+    "jurisdictionEng":"Newfoundland and Labrador",
+    "NID":"64c6c422ba1f11d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.558186,52.46895295 ]
+    },
+    "properties": {
+    "OBJECTID":2637,
+    "adminAreaId":"GWAA",
+    "adminAreaNameEng":"GWAII HAANAS NATIONAL PARK RESERVE OF CANADA",
+    "distributionType":"NPR",
+    "distributionTypeEng":"National Park Reserve of Canada",
+    "absoluteAccuracy":"<100m",
+    "absoluteAccuracyEng":"Better than 100 metres",
+    "adminRegion":"WROC_BC",
+    "adminRegionEng":"British Columbia Region",
+    "jurisdiction":"BC",
+    "jurisdictionEng":"British Columbia",
+    "NID":"5b328fccba3611d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/BC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -128.5706854,62.68235862 ]
+    },
+    "properties": {
+    "OBJECTID":2703,
+    "adminAreaId":"NAAT",
+    "adminAreaNameEng":"N??TS?IHCH?OH NATIONAL PARK RESERVE OF CANADA",
+    "distributionType":"NPR",
+    "distributionTypeEng":"National Park Reserve of Canada",
+    "absoluteAccuracy":"<100m",
+    "absoluteAccuracyEng":"Better than 100 metres",
+    "adminRegion":"NT",
+    "adminRegionEng":"Northwest Territories Region",
+    "jurisdiction":"NT",
+    "jurisdictionEng":"Northwest Territories",
+    "NID":"2e79fdd8ae364ceb869b",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8768311,59.44011329 ]
+    },
+    "properties": {
+    "OBJECTID":2910,
+    "adminAreaId":"WOOD",
+    "adminAreaNameEng":"WOOD BUFFALO NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"AB",
+    "adminRegionEng":"Alberta Region",
+    "jurisdiction":"AB",
+    "jurisdictionEng":"Alberta",
+    "NID":"7365b2ebba3411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.0164597,76.04500528 ]
+    },
+    "properties": {
+    "OBJECTID":2932,
+    "adminAreaId":"QAUS",
+    "adminAreaNameEng":"QAUSUITTUQ NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"NROC_NU",
+    "adminRegionEng":"Nunavut Region",
+    "jurisdiction":"NU",
+    "jurisdictionEng":"Nunavut",
+    "NID":"1b79141b3ef34db6a217",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.75584361,49.65259757 ]
+    },
+    "properties": {
+    "OBJECTID":3049,
+    "adminAreaId":"GROS",
+    "adminAreaNameEng":"GROS MORNE NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"EROC_AT",
+    "adminRegionEng":"Atlantic Region",
+    "jurisdiction":"NL",
+    "jurisdictionEng":"Newfoundland and Labrador",
+    "NID":"64bcb201ba1f11d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/NL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9167524,49.08395077 ]
+    },
+    "properties": {
+    "OBJECTID":3125,
+    "adminAreaId":"WATE",
+    "adminAreaNameEng":"WATERTON LAKES NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":"<2m",
+    "absoluteAccuracyEng":"Better than 2 metres",
+    "adminRegion":"AB",
+    "adminRegionEng":"Alberta Region",
+    "jurisdiction":"AB",
+    "jurisdictionEng":"Alberta",
+    "NID":"7351dccaba3411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.62421607,50.22114778 ]
+    },
+    "properties": {
+    "OBJECTID":3181,
+    "adminAreaId":"MING",
+    "adminAreaNameEng":"MINGAN ARCHIPELAGO NATIONAL PARK RESERVE OF CANADA",
+    "distributionType":"NPR",
+    "distributionTypeEng":"National Park Reserve of Canada",
+    "absoluteAccuracy":"<10m",
+    "absoluteAccuracyEng":"Better than 10 metres",
+    "adminRegion":"QC",
+    "adminRegionEng":"Quebec Region",
+    "jurisdiction":"QC",
+    "jurisdictionEng":"Quebec",
+    "NID":"5e252082ba2411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/QC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.7318453,49.24253138 ]
+    },
+    "properties": {
+    "OBJECTID":3302,
+    "adminAreaId":"GRAS",
+    "adminAreaNameEng":"GRASSLANDS NATIONAL PARK OF CANADA",
+    "distributionType":"NP",
+    "distributionTypeEng":"National Park of Canada",
+    "absoluteAccuracy":">100m",
+    "absoluteAccuracyEng":"Greater than 100 metres",
+    "adminRegion":"SK",
+    "adminRegionEng":"Saskatchewan Region",
+    "jurisdiction":"SK",
+    "jurisdictionEng":"Saskatwechan",
+    "NID":"52f1e632ba3411d892e2",
+    "representationPurpose":"legal",
+    "representationPurposeEng":"Legal",
+    "webReference":"ftp://ftp.nrcan.gc.ca/ess/sgb_pub/sgb_datasets/SK"
+    }
+  }
+]
+}
