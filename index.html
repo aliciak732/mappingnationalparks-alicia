@@ -41,9 +41,9 @@
 
         map.on('load', () => {
             map.addSource('park-boundaries', {
-                type: 'zip',
+                type: 'geojson',
                 // Use a URL for the value for the `data` property.
-                data: 'data/park-boundaries.zip'
+                data: 'data/park-boundaries.geojson'
             });
 
             map.addSource('national-parks', {
